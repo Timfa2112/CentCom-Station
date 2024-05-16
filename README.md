@@ -1,5 +1,7 @@
 # CentCom Station
 
+Forked from [Einstein Engines](https://simplestation.org/) ([Discord](https://discord.gg/X4QEXxUrsJ)), CentCom Station is a server focused on the CentCom crew and their tireless efforts to keep the workforce of Nanotrasen operational and profitable!
+
 ## Contributing
 
 We are happy to accept contributions from anybody, come join our [Discord](https://discord.gg/4n8qpbS2CW) if you want to help.
