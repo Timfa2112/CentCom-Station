@@ -1,0 +1,45 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitCaptain
+  name: captain's jumpsuit
+  description: It's a green jumpsuit with some gold markings denoting the rank of "Captain".
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpsuit/captain_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpsuit/captain_centcom.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitHoP
+  name: head of personnel's jumpsuit
+  description: Rather bland and inoffensive. Perfect for vanishing off the face of the universe.
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpsuit/hop_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpsuit/hop_centcom.rsi
+
+# COLORS
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitColorCentcom
+  description: A tasteful green jumpsuit that reminds you of bureaucracy.
+  name: centcom jumpsuit
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpsuit/Color/centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpsuit/Color/centcom.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitCapFormal
+  name: captain's formal suit
+  description: A suit for special occasions.
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpsuit/capformal_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpsuit/capformal_centcom.rsi

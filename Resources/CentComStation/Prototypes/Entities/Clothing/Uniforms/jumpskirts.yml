@@ -1,0 +1,45 @@
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtCaptain
+  name: captain's jumpskirt
+  description: It's a green jumpskirt with some gold markings denoting the rank of "Captain".
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpskirt/captain_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpskirt/captain_centcom.rsi
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtHoP
+  name: head of personnel's jumpskirt
+  description: Rather bland and inoffensive. Perfect for vanishing off the face of the universe.
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpskirt/hop_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpskirt/hop_centcom.rsi
+
+# COLORS
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtColorCentcom
+  description: A tasteful green jumpskirt that reminds you of bureaucracy.
+  name: centcom jumpskirt
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpskirt/Color/centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpskirt/Color/centcom.rsi
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtCapFormalDress
+  name: captain's formal dress
+  description: A dress for special occasions.
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpskirt/capformaldress_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpskirt/capformaldress_centcom.rsi
