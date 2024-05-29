@@ -1,6 +1,6 @@
 - type: entity
   parent: ClothingUniformSkirtBase
-  id: ClothingUniformJumpskirtCaptain
+  id: ClothingUniformJumpskirtCaptainCentcom
   name: captain's jumpskirt
   description: It's a green jumpskirt with some gold markings denoting the rank of "Captain".
   components:
@@ -11,7 +11,7 @@
 
 - type: entity
   parent: ClothingUniformSkirtBase
-  id: ClothingUniformJumpskirtHoP
+  id: ClothingUniformJumpskirtHoPCentcom
   name: head of personnel's jumpskirt
   description: Rather bland and inoffensive. Perfect for vanishing off the face of the universe.
   components:
@@ -35,7 +35,7 @@
 
 - type: entity
   parent: ClothingUniformSkirtBase
-  id: ClothingUniformJumpskirtCapFormalDress
+  id: ClothingUniformJumpskirtCapFormalDressCentcom
   name: captain's formal dress
   description: A dress for special occasions.
   components:
