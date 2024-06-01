@@ -1,0 +1,30 @@
+- type: entity
+  parent: ClothingOuterWinterCoatToggleable
+  id: ClothingOuterWinterCapCentcom
+  name: captain's winter coat
+  components:
+  - type: Sprite
+    sprite: Clothing/OuterClothing/WinterCoats/coatcap_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/OuterClothing/WinterCoats/coatcap_centcom.rsi
+  - type: ToggleableClothing
+    clothingPrototype: ClothingHeadHatHoodWinterCaptainCentcom
+  - type: Armor # DeltaV - adds resists to coat, same as HoS coat. Still better than nothing, but nowhere as good as a carapace
+    modifiers:
+      coefficients:
+        Blunt: 0.75
+        Slash: 0.75
+        Piercing: 0.75
+        Heat: 0.75
+
+- type: entity
+  parent: ClothingOuterWinterCoatToggleable
+  id: ClothingOuterWinterHoPCentcom
+  name: head of personnel's winter coat
+  components:
+  - type: Sprite
+    sprite: Clothing/OuterClothing/WinterCoats/coathop_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/OuterClothing/WinterCoats/coathop_centcom.rsi
+  - type: ToggleableClothing
+    clothingPrototype: ClothingHeadHatHoodWinterHOPCentcom

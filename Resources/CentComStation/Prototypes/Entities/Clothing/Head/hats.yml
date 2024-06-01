@@ -1,0 +1,47 @@
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatCaptainCentcom
+  name: captain's hardhat
+  description: It's good being the king.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hats/captain_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hats/captain_centcom.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - HamsterWearable
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatHopcapCentcom
+  name: head of personnel's cap
+  description: A grand, stylish head of personnel's cap.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hats/hopcap_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hats/hopcap_centcom.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - HamsterWearable
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatCapcapCentcom
+  name: cap cap
+  description: A grand, stylish captain cap.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hats/capcap_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hats/capcap_centcom.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+    - HamsterWearable

@@ -1,0 +1,21 @@
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckMantleCapCentcom
+  name: captain's mantle
+  description: A comfortable and chique mantle befitting of only the most experienced captain.
+  components:
+  - type: Sprite
+    sprite: Clothing/Neck/mantles/capmantle_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Neck/mantles/capmantle_centcom.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckMantleHOPCentcom
+  name: head of personnel's mantle
+  description: A good HOP knows that paper pushing is only half the job... petting your dog and looking fashionable is the other half.
+  components:
+  - type: Sprite
+    sprite: Clothing/Neck/mantles/hopmantle_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Neck/mantles/hopmantle_centcom.rsi
