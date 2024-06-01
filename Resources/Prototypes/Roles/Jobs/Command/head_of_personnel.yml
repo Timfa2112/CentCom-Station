@@ -77,7 +77,7 @@
     jumpsuit: ClothingUniformJumpsuitHoPCentcom #CentcomStation
     back: ClothingBackpackHOPFilled
     shoes: ClothingShoesLeather # DeltaV - HoP needs something better than plebe shoes.
-    head: ClothingHeadHatHopcap
+    head: ClothingHeadHatHopcapCentcom #CentcomStation
     id: HoPPDA
     gloves: ClothingHandsGlovesHop
     ears: ClothingHeadsetHoP # DeltaV - HoP is now a service role, replaces their all channels headset.

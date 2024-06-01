@@ -51,10 +51,10 @@
     jumpsuit: ClothingUniformJumpsuitCaptainCentcom #CentcomStation
     back: ClothingBackpackCaptainFilled
     shoes: ClothingShoesBootsLaceup
-    head: ClothingHeadHatCaptain
+    head: ClothingHeadHatCaptainCentcom #CentcomStation
     eyes: ClothingEyesGlassesSunglasses
-    gloves: ClothingHandsGlovesCaptain
-    outerClothing: ClothingOuterArmorCaptainCarapace
+    gloves: ClothingHandsGlovesCaptainCentcom #CentcomStation
+    outerClothing: ClothingOuterArmorCaptainCarapaceCentcom #CentcomStation
     id: CaptainPDA
     ears: ClothingHeadsetAltCommand
   innerClothingSkirt: ClothingUniformJumpskirtCaptainCentcom #CentcomStation
