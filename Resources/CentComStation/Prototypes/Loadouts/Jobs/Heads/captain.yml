@@ -1,0 +1,114 @@
+- type: loadout
+  id: LoadoutCommandCapNeckMantleCentcom
+  category: Jobs
+  cost: 2
+  exclusive: true
+  requirements:
+    - !type:LoadoutJobRequirement
+      jobs:
+        - Captain
+  items:
+    - ClothingNeckMantleCapCentcom
+
+- type: loadout
+  id: LoadoutCommandCapNeckCloakCentcom
+  category: Jobs
+  cost: 2
+  exclusive: true
+  requirements:
+    - !type:LoadoutJobRequirement
+      jobs:
+        - Captain
+  items:
+    - ClothingNeckCloakCapCentcom
+
+- type: loadout
+  id: LoadoutCommandCapNeckCloakFormalCentcom
+  category: Jobs
+  cost: 2
+  exclusive: true
+  requirements:
+    - !type:LoadoutJobRequirement
+      jobs:
+        - Captain
+  items:
+    - ClothingNeckCloakCapFormalCentcom
+
+- type: loadout
+  id: LoadoutCommandCapJumpsuitFormalCentcom
+  category: Jobs
+  cost: 3
+  exclusive: true
+  requirements:
+    - !type:LoadoutJobRequirement
+      jobs:
+        - Captain
+  items:
+    - ClothingUniformJumpsuitCapFormalCentcom
+
+- type: loadout
+  id: LoadoutCommandCapJumpskirtFormalCentcom
+  category: Jobs
+  cost: 3
+  exclusive: true
+  requirements:
+    - !type:LoadoutJobRequirement
+      jobs:
+        - Captain
+  items:
+    - ClothingUniformJumpskirtCapFormalDressCentcom
+
+- type: loadout
+  id: LoadoutCommandCapOuterWinterCentcom
+  category: Jobs
+  cost: 2
+  requirements:
+    - !type:LoadoutJobRequirement
+      jobs:
+        - Captain
+  items:
+    - ClothingOuterWinterCapCentcom
+
+- type: loadout
+  id: LoadoutCommandCapGlovesCentcom
+  category: Jobs
+  cost: 1
+  requirements:
+    - !type:LoadoutJobRequirement
+      jobs:
+        - Captain
+  items:
+    - ClothingHandsGlovesCaptainCentcom
+
+- type: loadout
+  id: LoadoutCommandCapHatCentcom
+  category: Jobs
+  cost: 1
+  requirements:
+    - !type:LoadoutJobRequirement
+      jobs:
+        - Captain
+  items:
+    - ClothingHeadHatCaptainCentcom
+
+- type: loadout
+  id: LoadoutCommandCapHatCapcapCentcom
+  category: Jobs
+  cost: 1
+  requirements:
+    - !type:LoadoutJobRequirement
+      jobs:
+        - Captain
+  items:
+    - ClothingHeadHatCapcapCentcom
+
+- type: loadout
+  id: LoadoutCommandCapMaskGasCentcom
+  category: Jobs
+  cost: 1
+  requirements:
+    - !type:LoadoutJobRequirement
+      jobs:
+        - Captain
+  items:
+    - ClothingMaskGasCaptainCentcom

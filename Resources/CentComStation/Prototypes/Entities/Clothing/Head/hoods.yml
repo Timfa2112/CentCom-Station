@@ -1,0 +1,22 @@
+- type: entity
+  parent: ClothingHeadHatHoodWinterBase
+  id: ClothingHeadHatHoodWinterCaptainCentcom
+  noSpawn: true
+  name: captain's winter coat hood
+  description: An expensive hood, to keep the captain's head warm.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hoods/Coat/hoodcaptain_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hoods/Coat/hoodcaptain_centcom.rsi
+
+- type: entity
+  parent: ClothingHeadHatHoodWinterBase
+  id: ClothingHeadHatHoodWinterHOPCentcom
+  noSpawn: true
+  name: head of personel's winter coat hood
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hoods/Coat/hoodhop_centcom.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hoods/Coat/hoodhop_centcom.rsi
