@@ -12,11 +12,11 @@
 - type: startingGear
   id: PassengerGear
   equipment:
-    jumpsuit: ClothingUniformJumpsuitColorGrey
+    jumpsuit: ClothingUniformJumpsuitColorCentcom #CentcomStation
     back: ClothingBackpackFilled
     shoes: ClothingShoesColorBlack
     id: PassengerPDA
     ears: ClothingHeadsetGrey
-  innerClothingSkirt: ClothingUniformJumpskirtColorGrey
+  innerClothingSkirt: ClothingUniformJumpskirtColorCentcom #CentcomStation
   satchel: ClothingBackpackSatchelFilled
   duffelbag: ClothingBackpackDuffelFilled

@@ -1,0 +1,123 @@
+
+# Jumpsuits/skirts
+- type: latheRecipe
+  id: ClothingUniformJumpsuitColorCentcom # Centcom Tide
+  result: ClothingUniformJumpsuitColorCentcom
+  completetime: 4
+  materials:
+    Cloth: 300
+
+- type: latheRecipe
+  id: ClothingUniformJumpskirtColorCentcom
+  result: ClothingUniformJumpskirtColorCentcom
+  completetime: 4
+  materials:
+    Cloth: 300
+
+- type: latheRecipe
+  id: ClothingUniformJumpsuitCaptainCentcom
+  result: ClothingUniformJumpsuitCaptainCentcom
+  completetime: 4
+  materials:
+    Cloth: 300
+    Durathread: 100
+
+- type: latheRecipe
+  id: ClothingUniformJumpsuitCapFormalCentcom
+  result: ClothingUniformJumpsuitCapFormalCentcom
+  completetime: 4
+  materials:
+    Cloth: 300
+    Durathread: 100
+
+
+- type: latheRecipe
+  id: ClothingUniformJumpskirtCapFormalDressCentcom
+  result: ClothingUniformJumpskirtCapFormalDressCentcom
+  completetime: 4
+  materials:
+    Cloth: 300
+    Durathread: 100
+
+- type: latheRecipe
+  id: ClothingUniformJumpskirtCaptainCentcom
+  result: ClothingUniformJumpskirtCaptainCentcom
+  completetime: 4
+  materials:
+    Cloth: 300
+    Durathread: 100
+
+- type: latheRecipe
+  id: ClothingUniformJumpsuitHoPCentcom
+  result: ClothingUniformJumpsuitHoPCentcom
+  completetime: 4
+  materials:
+    Cloth: 300
+    Durathread: 100
+
+- type: latheRecipe
+  id: ClothingUniformJumpskirtHoPCentcom
+  result: ClothingUniformJumpskirtHoPCentcom
+  completetime: 4
+  materials:
+    Cloth: 300
+    Durathread: 100
+
+# Command winter coats
+- type: latheRecipe
+  id: ClothingOuterWinterCapCentcom
+  result: ClothingOuterWinterCapCentcom
+  completetime: 3.2
+  materials:
+    Cloth: 500
+    Durathread: 300
+
+- type: latheRecipe
+  id: ClothingOuterWinterHoPCentcom
+  result: ClothingOuterWinterHoPCentcom
+  completetime: 3.2
+  materials:
+    Cloth: 500
+    Durathread: 300
+
+# Mantles
+- type: latheRecipe
+  id: ClothingNeckMantleCapCentcom
+  result: ClothingNeckMantleCapCentcom
+  completetime: 2.8
+  materials:
+    Cloth: 200
+    Durathread: 150
+
+- type: latheRecipe
+  id: ClothingNeckMantleHOPCentcom
+  result: ClothingNeckMantleHOPCentcom
+  completetime: 2.8
+  materials:
+    Cloth: 200
+    Durathread: 150
+
+# Hats
+- type: latheRecipe
+  id: ClothingHeadHatCaptainCentcom
+  result: ClothingHeadHatCaptainCentcom
+  completetime: 2
+  materials:
+    Cloth: 100
+    Durathread: 50
+
+- type: latheRecipe
+  id: ClothingHeadHatCapcapCentcom
+  result: ClothingHeadHatCapcapCentcom
+  completetime: 2
+  materials:
+    Cloth: 100
+    Durathread: 50
+
+- type: latheRecipe
+  id: ClothingHeadHatHopcapCentcom
+  result: ClothingHeadHatHopcapCentcom
+  completetime: 2
+  materials:
+    Cloth: 100
+    Durathread: 50

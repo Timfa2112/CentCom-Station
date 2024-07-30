@@ -1,0 +1,32 @@
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckCloakCapCentcom
+  name: captain's cloak
+  description: A pompous and comfy green cloak with a nice gold trim, while not particularly valuable as your other possessions, it sure is fancy.
+  components:
+  - type: Sprite
+    sprite: Clothing/Neck/Cloaks/cap_centcom.rsi
+  - type: StealTarget
+    stealGroup: HeadCloak
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckCloakHopCentcom
+  name: head of personnel's cloak
+  description: A green cloak with red shoulders and gold buttons, proving you are the gatekeeper to any airlock on the station.
+  components:
+  - type: Sprite
+    sprite: Clothing/Neck/Cloaks/hop_centcom.rsi
+  - type: StealTarget
+    stealGroup: HeadCloak
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckCloakCapFormalCentcom
+  name: captain's formal cloak
+  description: A lavish and decorated cloak for special occasions.
+  components:
+  - type: Sprite
+    sprite: Clothing/Neck/Cloaks/capcloakformal_centcom.rsi
+  - type: StealTarget
+    stealGroup: HeadCloak
