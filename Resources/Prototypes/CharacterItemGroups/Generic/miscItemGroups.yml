@@ -134,6 +134,8 @@
       id: LoadoutItemPetMothroach
     - type: loadout
       id: LoadoutItemPetCockroach
+    - type: loadout
+      id: LoadoutItemPetGladiabot
 
 - type: characterItemGroup
   id: LoadoutCards

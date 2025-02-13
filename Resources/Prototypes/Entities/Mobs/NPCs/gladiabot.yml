@@ -4,6 +4,8 @@
   name: gladiabot
   description: For glory!
   components:
+  - type: Item
+    size: Huge
   - type: Sprite
     sprite: Mobs/Silicon/Bots/gladiabot.rsi
     state: GladiabotFFA
@@ -92,3 +94,20 @@
     interactFailureString: petting-failure-gladiabot
     interactSuccessSound:
       path: /Audio/Ambience/Objects/periodic_beep.ogg
+
+- type: entity
+  parent: MobGladiaBot
+  id: MobGladiaBotPet
+  components:
+  - type: HTN
+    rootTask:
+      task: GladiabotPetCompound
+    blackboard:
+      AttackDelayDeviation: !type:Single
+        0.3
+      IdleRange: !type:Single
+        1.5
+      FollowCloseRange: !type:Single
+        1.0
+      FollowRange: !type:Single
+        2.0

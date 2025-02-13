@@ -854,6 +854,19 @@
     - !type:LoadoutMakeFollower
 
 - type: loadout
+  id: LoadoutItemPetGladiabot
+  category: Items
+  cost: 3
+  canBeHeirloom: true
+  items:
+    - MobGladiaBotPet
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: LoadoutPets
+  functions:
+    - !type:LoadoutMakeFollower
+
+- type: loadout
   id: LoadoutItemBlackDeck
   category: Items
   cost: 3
