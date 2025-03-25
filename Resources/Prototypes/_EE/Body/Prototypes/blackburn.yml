@@ -1,0 +1,50 @@
+- type: body
+  id: Blackburn
+  name: blackburn
+  root: torso
+  slots:
+    head:
+      part: HeadBlackburn
+      connections:
+      - torso
+      organs:
+        brain: OrganBlackburnBrain
+        eyes: OrganBlackburnEyes
+    torso:
+      part: TorsoBlackburn
+      connections:
+      - right arm
+      - left arm
+      - right leg
+      - left leg
+      - head # Shitmed Change
+      organs:
+        heart: OrganAnimalHeart
+        lungs: OrganBlackburnLungs
+        stomach: OrganBlackburnStomach
+        liver:  OrganBlackburnLiver
+        kidneys: OrganBlackburnKidneys
+    right arm:
+      part: RightArmBlackburn
+      connections:
+      - right hand
+    left arm:
+      part: LeftArmBlackburn
+      connections:
+      - left hand
+    right hand:
+      part: RightHandBlackburn
+    left hand:
+      part: LeftHandBlackburn
+    right leg:
+      part: RightLegBlackburn
+      connections:
+      - right foot
+    left leg:
+      part: LeftLegBlackburn
+      connections:
+      - left foot
+    right foot:
+      part: RightFootBlackburn
+    left foot:
+      part: LeftFootBlackburn

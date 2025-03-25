@@ -1,0 +1,287 @@
+# Blackburn Tails
+
+- type: marking
+  id: BlackburnTailRetro
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/tails.rsi
+    state: tail
+
+- type: marking
+  id: BlackburnTailAnim
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/tails.rsi
+    state: tail_anim
+
+- type: marking
+  id: BlackburnTailRetroRings
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/tails.rsi
+    state: tail
+  - sprite: _EE/Mobs/Customization/Blackburn/tail_markings.rsi
+    state: tail_rings
+
+- type: marking
+  id: BlackburnTailAnimRings
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/tails.rsi
+    state: tail_anim
+  - sprite: _EE/Mobs/Customization/Blackburn/tail_markings.rsi
+    state: tail_anim_rings
+
+# Blackburn Ears
+
+- type: marking
+  id: BlackburnEarsRetro
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/ears.rsi
+    state: ears
+
+- type: marking
+  id: BlackburnEarsSeparate
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/ears.rsi
+    state: outears
+  - sprite: _EE/Mobs/Customization/Blackburn/ears.rsi
+    state: inears
+
+- type: marking
+  id: BlackburnEarsRetroNear
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/ears.rsi
+    state: ears_near
+
+- type: marking
+  id: BlackburnEarsSeparateNear
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/ears.rsi
+    state: outears_near
+  - sprite: _EE/Mobs/Customization/Blackburn/ears.rsi
+    state: inears_near
+
+# Blackburn Head/Face
+
+- type: marking
+  id: BlackburnHeadNose
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/head.rsi
+    state: nose
+
+- type: marking
+  id: BlackburnHeadMuzzle
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/head.rsi
+    state: muzzle
+
+- type: marking
+  id: BlackburnHeadMuzzleLarge
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/head.rsi
+    state: muzzle_large
+
+- type: marking
+  id: BlackburnHeadPoints
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/head.rsi
+    state: points
+
+- type: marking
+  id: BlackburnHeadTiger
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/head.rsi
+    state: tiger_face
+
+- type: marking
+  id: BlackburnHeadTigerAlt
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/head.rsi
+    state: tiger_head
+
+- type: marking
+  id: BlackburnHeadPatches
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/head.rsi
+    state: patch
+
+# Blackburn Torso
+
+- type: marking
+  id: BlackburnTorsoBelly
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/torso.rsi
+    state: belly
+
+- type: marking
+  id: BlackburnTorsoCrest
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/torso.rsi
+    state: crest
+
+- type: marking
+  id: BlackburnTorsoFullBelly
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/torso.rsi
+    state: fullbelly
+
+# Overlays
+
+- type: marking
+  id: BlackburnOverlayPatch
+  bodyPart: LLeg
+  markingCategory: Overlay
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/overlays.rsi
+    state: patch
+
+- type: marking
+  id: BlackburnOverlayPoints
+  bodyPart: LLeg
+  markingCategory: Overlay
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/overlays.rsi
+    state: points
+
+- type: marking
+  id: BlackburnEarsBasic
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: basic_outer
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: basic_inner
+
+- type: marking
+  id: BlackburnEarsCurled
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: curled_outer
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: curled_inner
+
+- type: marking
+  id: BlackburnEarsDroopy
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: droopy_outer
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: droopy_inner
+
+- type: marking
+  id: BlackburnEarsFuzzy
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: basic_outer
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: fuzzy_inner
+
+- type: marking
+  id: BlackburnEarsStubby
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: stubby_outer
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: stubby_inner
+
+- type: marking
+  id: BlackburnEarsTall
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: tall_outer
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: tall_inner
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: tall_fuzz
+
+- type: marking
+  id: BlackburnEarsTorn
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: torn_outer
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: torn_inner
+
+- type: marking
+  id: BlackburnEarsWide
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Blackburn]
+  sprites:
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: wide_outer
+  - sprite: _EE/Mobs/Customization/Blackburn/felinid_ears.rsi
+    state: wide_inner

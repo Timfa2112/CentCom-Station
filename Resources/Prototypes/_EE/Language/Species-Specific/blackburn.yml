@@ -1,0 +1,21 @@
+- type: language
+  id: Blackburn # Todo: proper name
+  obfuscation:
+    !type:SyllableObfuscation
+    minSyllables: 4
+    maxSyllables: 8
+    replacement:
+      - bi
+      - ba
+      - bo
+      - bu
+      - bau
+      - boi
+      - bya
+      - bai
+      - bui
+      - biu
+      - bey
+      - buy
+      - bay
+      - bei

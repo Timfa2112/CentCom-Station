@@ -1,0 +1,35 @@
+- type: entity
+  id: OrganBlackburnBrain
+  parent: OrganHumanBrain
+  components:
+  - type: Sprite
+    sprite: _EE/Mobs/Species/Blackburn/organs.rsi
+    state: brain
+
+- type: entity
+  id: OrganBlackburnEyes
+  parent: OrganHumanEyes
+
+- type: entity
+  id: OrganBlackburnLungs
+  parent: OrganHumanLungs
+
+- type: entity
+  id: OrganBlackburnStomach
+  parent: OrganHumanStomach
+
+- type: entity
+  id: OrganBlackburnLiver
+  parent: OrganHumanLiver
+
+- type: entity
+  id: OrganBlackburnKidneys
+  parent: OrganHumanKidneys
+
+- type: entity
+  id: OrganBlackburnHeart
+  parent: OrganHumanHeart
+  components:
+  - type: Sprite
+    sprite: _EE/Mobs/Species/Blackburn/organs.rsi
+    state: heart-on
