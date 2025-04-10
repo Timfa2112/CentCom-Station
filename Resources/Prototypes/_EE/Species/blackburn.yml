@@ -13,9 +13,10 @@
   minWidth: 0.6
   defaultWidth: 0.8
   maxWidth: 1.15
-  maleFirstNames: names_blackburn_first
   femaleFirstNames: names_blackburn_first
   lastNames: names_blackburn_last
+  sexes:
+  - Female
 
 - type: markingPoints
   id: MobBlackburnMarkingLimits
